@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace WebApplication4.DomainModels.VirtualProducts
+namespace WebApplication4.DomainModels
 {
     public interface IVideo : IEntity
     {

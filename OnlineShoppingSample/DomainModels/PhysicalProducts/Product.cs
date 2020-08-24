@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using WebApplication4.DomainModels;
+using WebApplication4.Services;
 
-namespace WebApplication4
+namespace WebApplication4.DomainModels
 {
 
     public abstract class PhysicalProduct : IEntity
